@@ -1,19 +1,11 @@
 ### Hi there 👋
-<a href='https://discordapp.com/users/122337782218752004'>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href='https://linkedin.com/in/yaroslav-pervushin'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href='https://t.me/YaroslavPervushin'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+## My Skill Set 
 
-<!--
-**ZioGrape/ZioGrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZioGrape&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My contacts  
+<div style="display: flex; justify-content: center;">
+   <a href="https://discordapp.com/users/122337782218752004" target="_blank" style="text-decoration: none; margin-right: 10px;"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/yaroslav-pervushin" target="_blank" style="text-decoration: none; margin-right: 10px;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YaroslavPervushin" target="_blank" style="text-decoration: none; margin-right: 10px;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord" /></a>
+</div>
