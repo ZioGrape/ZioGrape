@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href='/'>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <!--
 **ZioGrape/ZioGrape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
