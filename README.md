@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href='https://discordapp.com/users/122337782218752004'>![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href='www.linkedin.com/in/yaroslav-pervushin'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href='https://linkedin.com/in/yaroslav-pervushin'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href='https://t.me/YaroslavPervushin'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 <!--
