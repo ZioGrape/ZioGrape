@@ -50,6 +50,7 @@
       <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="nextjs" height="60" /></a>
       <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="gitlab" height="60" /></a>
       <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="rectnative" height="60" /></a>
+      <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="threejs" height="60" /></a>
    </div>
 
 
