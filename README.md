@@ -49,6 +49,7 @@
       <a href="https://ionicframework.com/docs/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="ionic" height="60" /></a>
       <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="nextjs" height="60" /></a>
       <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="gitlab" height="60" /></a>
+      <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="rectnative" height="60" /></a>
    </div>
 
 
