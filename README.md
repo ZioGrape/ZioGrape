@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Yaroslav, i'm a fullstack developer👋
 
 ## My Skill Set
    
