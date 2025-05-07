@@ -10,7 +10,6 @@
 
    #### Code languages im learnining
    <div>
-      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
       <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>   
    </div>
    
@@ -43,18 +42,6 @@
       <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>
       <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="60" /></a> 
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /></a>
-   </div>
-   
-   #### What do i want to learn next
-   <div align="left">
-      <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="60" /></a>
-      <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="php" height="60" /></a>
-      <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="redis" height="60" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwindcss" height="60" /></a>
-      <a href="https://ionicframework.com/docs/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="ionic" height="60" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="nextjs" height="60" /></a>
-      <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="rectnative" height="60" /></a>
-      <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="threejs" height="60" /></a>
    </div>
 
 
