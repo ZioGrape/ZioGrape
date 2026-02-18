@@ -1,6 +1,3 @@
-## Code languages I know
+# Original README
 
-- ![TypeScript](https://profilinator.rishav.dev/technologies/typescript.svg) TypeScript
-- ![Python](https://profilinator.rishav.dev/technologies/python.svg) [Python](https://www.python.org/doc/) 
-- ![JavaScript](https://profilinator.rishav.dev/technologies/javascript.svg) JavaScript
-- ![Ruby](https://profilinator.rishav.dev/technologies/ruby.svg) Ruby
+This is the original README content before the last commit. Please replace this text with the appropriate original content of the README.
