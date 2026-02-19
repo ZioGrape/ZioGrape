@@ -1,5 +1,7 @@
 ### Hi there, my name is Yaroslav, i'm a fullstack developer👋
 
+🌱 I’m currently focused on learning AI integration and system design.
+
 ## My Skill Set
    
    #### Code languages i know
